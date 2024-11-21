@@ -1,0 +1,36 @@
+name: signal
+description: "Trading bOt"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  uuid: ^4.2.2
+  get_storage: ^2.1.1
+  path_provider: ^2.1.4
+  decimal: ^3.0.2
+  big_decimal: ^0.5.0
+  intl: ^0.19.0
+  image: ^4.2.0
+  url_launcher: ^6.3.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets: [ assets/images/, assets/config/]
+  fonts: [ ]
+  generate: true

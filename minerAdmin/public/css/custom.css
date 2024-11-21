@@ -1,0 +1,7 @@
+.w-header, .w-header th{
+    background-color: #303641 !important;
+    color: #ffffff !important;
+}
+.w-nowrap{
+    text-wrap: nowrap !important;
+}

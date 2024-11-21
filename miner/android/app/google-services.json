@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133752152364",
+    "project_id": "trade-management-app",
+    "storage_bucket": "trade-management-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133752152364:android:01e3f1d3ad33bdb113cc89",
+        "android_client_info": {
+          "package_name": "com.miner.miner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuq1fgE-oCy82JqYkjdp9ZwYj0ZL-bgxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
